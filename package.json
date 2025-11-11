@@ -11,7 +11,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@types/jsonwebtoken": "^9.0.5",
-    "cloudinary": "^1.41.0",
+    "cloudinary": "^2.7.0",
     "graphql-request": "^6.1.0",
     "jsonwebtoken": "^9.0.2",
     "next": "14.0.4",
